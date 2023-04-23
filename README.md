@@ -28,8 +28,8 @@ project, and run:
 symfony serve
 ```
 
-(If this is your first time using this command, you may see an
-error that you need to run `symfony server:ca:install` first).
+If this is your first time using this command, you may see an
+error that you need to run `symfony server:ca:install` first.
 
 Now check out the site at `https://localhost:8000`
 
